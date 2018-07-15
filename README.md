@@ -1,2 +1,2 @@
-# Psudo-2D-racing-game
+# Psudo-3D-racing-game
 Outrun style game using SFML
